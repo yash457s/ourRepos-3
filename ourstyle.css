@@ -1,0 +1,15 @@
+﻿body {
+    background-color:aqua;
+}
+h1 {
+    background-color:brown;
+    color:ButtonFace;
+    text-align:center;
+}
+a {
+    color:blanchedalmond;
+    background-color:cadetblue;
+}
+ul {
+    list-style:none;
+}
